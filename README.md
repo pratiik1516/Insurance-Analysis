@@ -28,7 +28,7 @@ This Power BI project provides a comprehensive analysis of policy, claim, and cu
 
 > *(Add your dashboard image here if hosted)*  
 > Example:
-> ![Dashboard Preview](https://your-image-link.com/dashboard.png)
+> ![Dashboard Preview]("C:\Users\PRATIK\OneDrive\Documents\UDEMY DATA ANALYST BOOT CAMP\Power BI\power bi project 2\Report 1.png")
 
 ---
 
