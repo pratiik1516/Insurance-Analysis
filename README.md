@@ -26,7 +26,7 @@ This Power BI project provides a comprehensive analysis of policy, claim, and cu
 
 ## 📷 Screenshot
 
-![]("C:\Users\PRATIK\OneDrive\Documents\UDEMY DATA ANALYST BOOT CAMP\Power BI\power bi project 2\Report 1.png")
+![](C:\Users\PRATIK\OneDrive\Documents\UDEMY DATA ANALYST BOOT CAMP\Power BI\power bi project 2\Report 1.png)
 
 ---
 
