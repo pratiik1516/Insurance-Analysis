@@ -6,7 +6,6 @@
 
 This Power BI project provides a comprehensive analysis of policy, claim, and customer feedback data for **Spectra Insurance Pvt. Ltd.** The dashboard uncovers insights across business operations, customer satisfaction, and policy performance using interactive visualizations and KPIs.
 
-> 🔍 Built for data-driven decision making in the insurance domain.
 
 ---
 
