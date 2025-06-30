@@ -1,4 +1,4 @@
-# 🧾 Power BI Insurance Company Dashboard
+# 🧾 Insurance Company Dashboard
 
 ![Power BI Logo](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
@@ -27,6 +27,7 @@ This Power BI project provides a comprehensive analysis of policy, claim, and cu
 ## 📷 Screenshot
 
 ![](https://github.com/pratiik1516/Insurance-Analysis/blob/main/Report%201.png)
+![](https://github.com/pratiik1516/Insurance-Analysis/blob/main/Report%202.png)
 
 ---
 
@@ -66,19 +67,6 @@ This Power BI project provides a comprehensive analysis of policy, claim, and cu
 
 ---
 
-## ✅ How to Use
-
-1. Download the `.pbix` file from this repository.  
-2. Open in [Power BI Desktop](https://powerbi.microsoft.com/en-us/downloads/).  
-3. Refresh data and explore the dashboard using slicers and filters.
-
----
-
-## 🎓 Credits
-
-Special thanks to open datasets and Power BI learning resources that inspired this project.
-
----
 
 ## 🏁 Conclusion
 
@@ -86,5 +74,4 @@ This dashboard enables insurance businesses to gain clear insights into customer
 
 ---
 
-> 💬 Feel free to fork this repo or contribute suggestions!
 
